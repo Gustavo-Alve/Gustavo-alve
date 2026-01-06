@@ -16,7 +16,7 @@
 
 ## 📫 Como me encontrar
 - 📧 Email: **gustavomartinsalves11@gmail.com**
-- 📱 Telefone : **(64)99957-1093
+- 📱 Telefone :(64)99957-1093
 
 ---
 
