@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-alve&show_icons=true&theme=dark)
 
 ---
