@@ -1,15 +1,10 @@
 # 👋 Olá, eu sou o Gustavo Martins!
 
-📊 Estudante de **Análise de Dados**, apaixonado por transformar dados em informações úteis e apoiar a tomada de decisões através de insights.
-
 ---
 
 ## 🚀 Sobre mim
-- 📈 Estudando **Análise de Dados**
-- 🛠️ Utilizando **Power BI** para visualização e dashboards
-- 🗄️ Trabalhando com **SQL** para consulta e manipulação de dados
-- 🐍 Aprendendo **Python** com foco na biblioteca **Pandas**
-- 🧠 Sempre buscando evoluir e aprender novas ferramentas da área de dados
+- 📈 Estudando **Ruby - Ruby on rails**
+- 🧠 Sempre buscando evoluir e aprender novas ferramentas
 - 🌍 Fluente em **Inglês**
 - 😄 Pronomes: **Ele / Dele**
 
@@ -34,10 +29,8 @@
     src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png">
   <img align="center" alt="Pandas" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img align="center" alt="Power BI" height="40" width="40"
-  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-
-</div>
+  <img align="center" alt="Ruby" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
 
 ---
 
