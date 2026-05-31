@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 - 📈 Estudando **Ruby - Ruby on rails**
 - 🧠 Sempre buscando evoluir e aprender novas ferramentas
-- 🌍 Fluente em **Inglês**
+- 🌍 Idiomas: Inglês - Avançado
 - 😄 Pronomes: **Ele / Dele**
 
 
