@@ -31,6 +31,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Ruby" height="40" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="center" alt="PHP" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/Php-original.svg">
+
 
 ---
 
